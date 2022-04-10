@@ -13,7 +13,7 @@
 
 ③ 有过赞赏、充电的朋友可以在蓝同学的私人网盘下载：[点我查看](https://mp.weixin.qq.com/s/ePEj4PV9DwIVpwYDCIrOOw)
 
-④ 蓝同学的微信号：wxid_7wo7975amvkj22
+④ 有问题加蓝同学的微信号：wxid_7wo7975amvkj22（常见问题请看看我朋友圈先）
 
 ![20220211134447](https://cdn.jsdelivr.net/gh/lanbao2021/PicGo-img/20220211134447.png)
 
