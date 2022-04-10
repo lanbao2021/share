@@ -13,7 +13,7 @@
 
 ③ 有过赞赏、充电的朋友可以在蓝同学的私人网盘下载：[点我查看](https://mp.weixin.qq.com/s/ePEj4PV9DwIVpwYDCIrOOw)
 
-④ [有问题点我加蓝同学的微信号（常见问题请看看我朋友圈先）](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204101307683.JPG)
+④ [蓝同学的微信号：LanTongXue_18（最新推送、常见问题会发在朋友圈）](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204101307683.JPG)
 
 ![20220211134447](https://cdn.jsdelivr.net/gh/lanbao2021/PicGo-img/20220211134447.png)
 
