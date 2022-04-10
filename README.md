@@ -8,8 +8,11 @@
 ## 必看说明
 
 ① 解压有密码的话是`lantongxue`，电脑小白不会解压看这篇文章：[如何解压文件？](https://mp.weixin.qq.com/s/WwFchRA_4f9QwDLr5f-dxA)
+
 ② 公众号的服务比较稳定，若链接失效可以去`微信公众号：蓝朋友啊`发送对应关键词
+
 ③ 有过赞赏、充电的朋友可以在蓝同学的私人网盘下载：[点我查看](https://mp.weixin.qq.com/s/ePEj4PV9DwIVpwYDCIrOOw)
+
 ④ 蓝同学的微信号：wxid_7wo7975amvkj22
 
 ![20220211134447](https://cdn.jsdelivr.net/gh/lanbao2021/PicGo-img/20220211134447.png)
