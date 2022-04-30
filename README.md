@@ -1,132 +1,79 @@
-更新时间：2022年04月24日
-
-目前维护能力有限，过段时间增加更多链接！
-
-使用前请先查看下方的 **必看说明**
-
 # 必看说明
 
 ① 解压有密码的话是 `lantongxue` ，电脑小白不会解压看这篇文章：[如何解压文件？](https://mp.weixin.qq.com/s/WwFchRA_4f9QwDLr5f-dxA)
 
-② 公众号的服务比较稳定，最新下载链接建议去 `微信公众号：蓝朋友啊` 发送对应关键词
+② 因为分享的网盘链接下载量过多总是失效，所以最新的下载链接请在 `微信公众号：蓝朋友啊` 发送对应关键词获取，方便蓝同学进行维护。
 
-补充：由于精力有限交流群以后就不开放了，「充电」或「赞赏」的的福利改为加速下载**常用**资源，具体请看这篇文章：[《赞赏福利 & 加速下载》](https://mp.weixin.qq.com/s/eokK0hyacb61cvWmoBLkJw)
+![](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204301213438.jpg)
 
-# 热门资源目录
-* [必看说明](#必看说明)
-* [热门资源目录](#热门资源目录)
-  * [Matlab（Win/Mac）](#matlabwinmac)
-  * [Adobe全家桶（17个系列，Win/Mac，2018～2021）](#adobe全家桶17个系列winmac20182021)
-  * [Keil 5](#keil-5)
-  * [Office(11月19日已更新失效链接）](#office11月19日已更新失效链接)
-  * [Project](#project)
-  * [Visio](#visio)
-  * [SAI](#sai)
-  * [CodeBlocks](#codeblocks)
-  * [WPS无广告版](#wps无广告版)
-  * [Endnote X8和X9](#endnote-x8和x9)
-  * [Proteus](#proteus)
-  * [IDM（Windows上最牛逼的下载器）](#idmwindows上最牛逼的下载器)
-  * [CAD系列（2010～2021）](#cad系列20102021)
-  * [3dsMax](#3dsmax)
-  * [CLion](#clion)
-  * [Lingo](#lingo)
-  * [Multisim下载](#multisim下载)
-  * [没有校园网如何下载知网论文？](#没有校园网如何下载知网论文)
-  * [vcruntime140_1.dll下载](#vcruntime140_1dll下载)
+由于精力有限**交流群**以后就不开放了，充电或赞赏的福利改为**加速下载常用资源**，具体请看这篇文章：[《赞赏福利 & 加速下载》](https://mp.weixin.qq.com/s/eokK0hyacb61cvWmoBLkJw)
 
-## Matlab（Win/Mac）
 
-链接：https://pan.baidu.com/s/10u7424WwmAzxcjeiNSaEFw 
-提取码：araa
+# 资源列表
 
-## Adobe全家桶（17个系列，Win/Mac，2018～2021）
+请在 `微信公众号：蓝朋友啊` 发送对应`关键词`
 
-☞百度网盘下载链接: https://pan.baidu.com/s/1UIWGbonvbxu1ljJxfV99pA
-密码: 050p
+下方没提供教程链接的先自己找一下
 
-☞天翼云盘下载链接：https://cloud.189.cn/t/nmuUZ3bm2Uju 
-密码：cvd3
+* **Matlab**相关资源关键词：`Matlab`
+  * [Matlab 2016安装教程（Win）](https://mp.weixin.qq.com/s/JABBpWc3bR9Ax1N5hm6rWA)
+  * [Matlab 2020安装教程（Win）](https://mp.weixin.qq.com/s/LfFauuuDTd9ryNhQhuylmQ)
+  * [Matlab 2020安装教程（Mac）](https://mp.weixin.qq.com/s/TDIpJwO9JoXCeD6XYZBEsQ)
+* **Keil 5**相关资源关键词：`Keil`
+  * [Keil 5图文安装教程](https://mp.weixin.qq.com/s/pfshL173N4ztDfrcU2dOPg)
+* **HFSS**相关资源：`hfss`
+  * [HFSS 15.0安装教程](https://www.bilibili.com/video/BV1CT4y1u7LB)
+* **Office**相关资源：`Office`
+  * [Office安装教程](https://www.bilibili.com/video/BV1G54y1X7VR)
+* **Project**相关资源：`Project`
+* **Visio**相关资源：`Visio`
+  * [Visio 2019安装教程](https://www.bilibili.com/video/BV1sz411i7qn)
+* **SAI**相关资源：`SAI`
+  * [SAI 2.0图文安装教程](https://mp.weixin.qq.com/s/Qw9uZHJLr1Do-bnoTDXpwQ)
+* **CodeBlocks**相关资源：`CodeBlocks`
+  * [CodeBlocks汉化教程](https://www.bilibili.com/video/BV1o5411s7do)
+* **WPS**相关资源：`WPS`
+  * [WPS无广告版](https://mp.weixin.qq.com/s/k3SyB0lxh1LUOZnem8RKhg)
+* **Endnote**相关资源：`Endnote`
+  * [Endnote安装教程](https://www.bilibili.com/video/BV1Fz4y1X7jV)
+* **Proteus**相关资源：`Proteus`
+  * [Proteus 8.9图文安装教程](https://mp.weixin.qq.com/s/pVnmAzhfFqIYkYo7qQ-8mw)
+* **IDM**相关资源：`IDM`
+  * [Windows最强下载器IDM](https://mp.weixin.qq.com/s/6GYf4oORIcgu0XQrXjeJow)
+* **CAD**相关资源：`CAD`
+  * [CAD2021安装教程](https://www.bilibili.com/video/BV11A411Y7En)
+  * [CAD2020安装教程](https://www.bilibili.com/video/BV1pD4y1D7UF)
+  * [CAD2019安装教程](https://www.bilibili.com/video/BV1p64y1c7Vx)
+  * [CAD2018安装教程](https://www.bilibili.com/video/BV1Nt4y1Q7Zs)
+* **3dsMax**相关资源：`3dsMax`
+  * [3dsMax 2020安装教程](https://www.bilibili.com/video/BV1kK411W7Ua)
+* **LINGO**相关资源：`lingo`
+* **Multisim**相关资源：`Multisim`
+  * [Multisim 14安装教程](https://www.bilibili.com/video/BV1QT4y1E7t1)
+* **CLion**相关资源：`Proteus`
+  * [CLion激活到2099年的方法](https://mp.weixin.qq.com/s/JGSagMpZsGYbLxkwJys6kA)
+* **截图软件**相关资源：`截图`
+  * [Windows上的截图软件推荐](https://mp.weixin.qq.com/s/HNH4bnCfQj2Kr07sGs6EKA)
+* **PhotoShop**相关资源：`PS`
+* **Premiere**相关资源：`PR`
+* **After Effect**相关资源：`AE`
+* **Adobe illustrator**相关资源：`Ai`
+* **SPSS**相关资源：`SPSS`
+* 其他教程
+  * [M1 Mac安装PyQt5的方法](https://mp.weixin.qq.com/s/dQYaNwhc5OkPJ7iMpsNJRw)
+  * [没校园网如何免费下载知网论文](https://mp.weixin.qq.com/s/Biakcm_Ajuy-y_l18GOV3w)
+  * [找不到vcruntime140_1.dll解决方案](https://zhuanlan.zhihu.com/p/353260018)
+  * [Filezilla远程连接Linux云服务器](https://zhuanlan.zhihu.com/p/357059026)
+  * [Linux云服务器安装Mysql + 远程连接](https://zhuanlan.zhihu.com/p/356889976)
 
-## Keil 5
 
-链接：https://pan.baidu.com/s/1REUmSix4_IahnD17CG-3KA 
-提取码：LTXA
 
-## Office(11月19日已更新失效链接）
+# 在哪里可以找到我？
 
-链接：https://pan.baidu.com/s/16BHqWM4ImTpMYH_y5VQgIg 
-提取码：2995
+哔哩哔哩：[我是蓝同学啊](https://space.bilibili.com/321583894)
 
-## Project
+知乎：[我是蓝同学啊](https://www.zhihu.com/people/wo-shi-lan-tong-xue-a)
 
-链接: https://pan.baidu.com/s/1HXn62pqyugeIzRVEfdZc-w  
-密码: 39ns
+公众号1：[我是蓝朋友啊](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204301213438.jpg)
 
-## Visio
-
-链接: https://pan.baidu.com/s/1sE9H73ycU8ETeD4xw1BeSA  
-密码: kcac
-
-## SAI
-
-链接：https://pan.baidu.com/s/1-2d2wqCaAB8pR74TyGJevQ 
-提取码：45OD
-
-## CodeBlocks
-
-链接：https://pan.baidu.com/s/1xChGn6GvWv9MM05gZyH0TA 
-提取码：tkxw
-
-## WPS无广告版
-
-https://share.mubu.com/doc/7SBm2NasZEi
-
-## Endnote X8和X9
-
-链接：https://pan.baidu.com/s/1wOD3d5oMkVj4vPnjkRV4bg 
-提取码：qg3j
-
-## Proteus
-
-链接：https://pan.baidu.com/s/126Yq8XSfXbnCZSPeBrDVcg 
-提取码：on1q 
-
-## IDM（Windows上最牛逼的下载器）
-
-链接：https://lantongxue.lanzoux.com/b015f0sfa 
-密码:75b9
-
-## CAD系列（2010～2021）
-
-链接：https://pan.baidu.com/s/1Mio-J7CIXjWGISLhSa9omQ 
-提取码：LTXA
-
-## 3dsMax
-
-链接：https://pan.baidu.com/s/1FGt3W2f8UIyE9VFsBNnS2g 
-提取码：LTXA 
-
-## CLion
-
-链接: https://pan.baidu.com/s/1AHAaS7NdxAp1ieZE8_a_cw  
-密码: h4mr
-
-## Lingo
-
-链接：https://www.lanzoux.com/b015nkwzc
-密码：6zaa
-
-## Multisim下载
-
-链接：https://pan.baidu.com/s/1v4tqwsiwRA0HVVaznH_2bA 
-提取码：6pzz
-
-## 没有校园网如何下载知网论文？
-
-链接：https://mp.weixin.qq.com/s/Biakcm_Ajuy-y_l18GOV3w
-
-## vcruntime140_1.dll下载
-
-链接： https://pan.baidu.com/s/1z8CuiUXXdjy0YgnG-cxMwg  
-密码: b6se
+公众号2：[蓝同学啊](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204301522569.jpeg)
