@@ -4,7 +4,7 @@
 
 ② 因为分享的网盘链接下载量过多总是失效，所以最新的下载链接请在 `微信公众号：蓝朋友啊` 发送对应关键词获取，方便蓝同学进行维护。
 
-![](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204301213438.jpg)
+![](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204300106793.jpg)
 
 由于精力有限**交流群**以后就不开放了，充电或赞赏的福利改为**加速下载常用资源**，具体请看这篇文章：[《赞赏福利 & 加速下载》](https://mp.weixin.qq.com/s/eokK0hyacb61cvWmoBLkJw)
 
