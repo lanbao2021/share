@@ -12,8 +12,6 @@
 
 请在 `微信公众号：蓝朋友啊` 发送对应 `关键词`
 
-下方没提供教程链接的先自己找一下
-
 * **Matlab**资源获取关键词：`Matlab`
   + [Matlab 2016安装教程（Win）](https://mp.weixin.qq.com/s/JABBpWc3bR9Ax1N5hm6rWA)
   + [Matlab 2020安装教程（Win）](https://mp.weixin.qq.com/s/LfFauuuDTd9ryNhQhuylmQ)
