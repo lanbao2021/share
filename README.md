@@ -60,7 +60,7 @@
 * **After Effect**相关资源：`AE`
 * **Adobe illustrator**相关资源：`Ai`
 * **SPSS**相关资源：`SPSS`
-* 其他分享
+* **蓝同学的其他分享**
   + [Windows开机不输入密码进入桌面](https://mp.weixin.qq.com/s/yZZIENNtVJvfTs2f2HNSTg)
   + [M1 Mac安装PyQt5的方法](https://mp.weixin.qq.com/s/dQYaNwhc5OkPJ7iMpsNJRw)
   + [没校园网如何免费下载知网论文](https://mp.weixin.qq.com/s/Biakcm_Ajuy-y_l18GOV3w)
