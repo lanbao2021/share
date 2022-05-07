@@ -47,6 +47,7 @@
 * **LINGO**资源获取关键词：`lingo`
 * **VMware**资源获取关键词：`VMware`
   + [VMware WorkStation Pro 16.2【避坑】](https://mp.weixin.qq.com/s/RYq02l9EZcT7vdTBIWFCHA)
+  + [超详细的Windows 11虚拟机安装教程！](https://mp.weixin.qq.com/s/18yYWiiIKQpCSONoHnnxGw)
 * **Multisim**资源获取关键词：`Multisim`
   + [Multisim 14安装教程](https://www.bilibili.com/video/BV1QT4y1E7t1)
 * **CLion**资源获取关键词：`Proteus`
