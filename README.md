@@ -1,3 +1,4 @@
+
 # 必看说明
 
 ① 解压有密码的话是 `lantongxue` ，电脑小白不会解压看这篇文章：[如何解压文件？](https://mp.weixin.qq.com/s/WwFchRA_4f9QwDLr5f-dxA)
@@ -8,7 +9,6 @@
 
 由于精力有限**交流群**以后就不开放了，充电或赞赏的福利改为**加速下载常用资源**，具体请看这篇文章：[《赞赏福利 & 加速下载》](https://mp.weixin.qq.com/s/eokK0hyacb61cvWmoBLkJw)
 
-[资源代找（试运行）](https://lanbao2021.github.io/share/16519680783387.html)
 
 # 资源列表
 
@@ -62,6 +62,7 @@
 * **Adobe illustrator**资源获取关键词：`Ai`
 * **SPSS**资源获取关键词：`SPSS`
 * **蓝同学的其他分享**
+  + [资源代找（试运行）](https://mp.weixin.qq.com/s/NfnGt1ONlRm7zjVYcAV7Zw)
   + [Windows开机不输入密码进入桌面](https://mp.weixin.qq.com/s/yZZIENNtVJvfTs2f2HNSTg)
   + [M1 Mac安装PyQt5的方法](https://mp.weixin.qq.com/s/dQYaNwhc5OkPJ7iMpsNJRw)
   + [没校园网如何免费下载知网论文](https://mp.weixin.qq.com/s/Biakcm_Ajuy-y_l18GOV3w)
