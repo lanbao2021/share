@@ -7,7 +7,7 @@
 
 ![](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204300106793.jpg)
 
-由于精力有限**交流群**以后就不开放了，充电或赞赏的福利改为**加速下载常用资源**，具体请看这篇文章：[《赞赏福利 & 加速下载》](https://mp.weixin.qq.com/s/eokK0hyacb61cvWmoBLkJw)
+如果有问题需要联系蓝同学建议加入`蓝同学的交流频道`，里面也有一些福利比如加速下载那些动辄几个G的大文件（Matlab、Office、Adobe全家桶...），具体请查看公众号的推送：[《交流群？不，交流频道！》](https://mp.weixin.qq.com/s/oUpJYEBboztdv-T06JWo8w)
 
 
 # 资源列表
@@ -23,7 +23,8 @@
 * **HFSS**资源获取关键词：`hfss`
   + [HFSS 15.0安装教程](https://www.bilibili.com/video/BV1CT4y1u7LB)
 * **Office**资源获取关键词：`Office`
-  + [Office安装教程](https://www.bilibili.com/video/BV1G54y1X7VR)
+  + [Office 2016/2019安装教程](https://www.bilibili.com/video/BV1G54y1X7VR)
+  + [Office 2021专业增强版](https://mp.weixin.qq.com/s/oUpJYEBboztdv-T06JWo8w)
 * **Project**资源获取关键词：`Project`
 * **Visio**资源获取关键词：`Visio`
   + [Visio 2019安装教程](https://www.bilibili.com/video/BV1sz411i7qn)
