@@ -7,7 +7,7 @@
 
 ![](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204300106793.jpg)
 
-如果有问题需要联系蓝同学建议加入`蓝同学的交流频道`，里面也有一些福利比如加速下载那些动辄几个G的大文件（Matlab、Office、Adobe全家桶...），具体请查看公众号的推送：[《交流群？不，交流频道！》](https://mp.weixin.qq.com/s/oUpJYEBboztdv-T06JWo8w)
+交流答疑请进`蓝同学的交流频道`也有一些额外的福利在里头：[《交流群？不，交流频道！》](https://mp.weixin.qq.com/s/oUpJYEBboztdv-T06JWo8w)
 
 
 # 资源列表
