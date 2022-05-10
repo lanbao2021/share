@@ -17,7 +17,7 @@
 
 请在 `微信公众号：蓝朋友啊` 发送对应 `关键词`
 
-链接、教程失效请在私信或交流频道反馈。
+链接、教程失效请在私信或QQ频道反馈。
 
 * **Matlab**资源获取关键词：`Matlab`
   + [Matlab 2016安装教程（Win）](https://mp.weixin.qq.com/s/JABBpWc3bR9Ax1N5hm6rWA)
