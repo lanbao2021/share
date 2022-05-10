@@ -1,18 +1,23 @@
 
+
+
 # 必看说明
 
 ① 解压有密码的话是 `lantongxue` ，电脑小白不会解压看这篇文章：[如何解压文件？](https://mp.weixin.qq.com/s/WwFchRA_4f9QwDLr5f-dxA)
 
-② 因为分享的网盘链接下载量过多总是失效，所以最新的下载链接请在 `微信公众号：蓝朋友啊` 发送对应关键词获取，方便蓝同学进行维护。
+② 本页面分享的链接更新没那么及时，**最新的教程和下载链接**可以在 `微信公众号：蓝朋友啊` 发送对应关键词获取。
 
 ![](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204300106793.jpg)
 
-交流答疑请进`蓝同学的交流频道`也有一些额外的福利在里头：[《交流群？不，交流频道！》](https://mp.weixin.qq.com/s/oUpJYEBboztdv-T06JWo8w)
+③交流答疑，防止失联：[点我加入蓝同学的QQ频道](https://mp.weixin.qq.com/s/oUpJYEBboztdv-T06JWo8w)
 
+注：蓝同学分享的资源都是免费的，交流群和频道设置门槛是因为这需要花费蓝同学不少精力去维护，如果设置成无门槛会找来很多妖魔鬼怪...目前交流群有4000多人，刚建立不久的交流频道有200多人，如果你觉得蓝同学的分享不错，欢迎加入～
 
 # 资源列表
 
 请在 `微信公众号：蓝朋友啊` 发送对应 `关键词`
+
+链接、教程失效请在私信或交流频道反馈。
 
 * **Matlab**资源获取关键词：`Matlab`
   + [Matlab 2016安装教程（Win）](https://mp.weixin.qq.com/s/JABBpWc3bR9Ax1N5hm6rWA)
@@ -70,6 +75,8 @@
   + [找不到vcruntime140_1.dll解决方案](https://zhuanlan.zhihu.com/p/353260018)
   + [Filezilla远程连接Linux云服务器](https://zhuanlan.zhihu.com/p/357059026)
   + [Linux云服务器安装Mysql + 远程连接](https://zhuanlan.zhihu.com/p/356889976)
+
+
 # 在哪里可以找到我？
 
 哔哩哔哩：[我是蓝同学啊](https://space.bilibili.com/321583894)
