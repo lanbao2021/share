@@ -3,15 +3,13 @@
 
 # 必看说明
 
-① 解压有密码的话是 `lantongxue` ，电脑小白不会解压看这篇文章：[如何解压文件？](https://mp.weixin.qq.com/s/WwFchRA_4f9QwDLr5f-dxA)
+① 解压有密码的话是 `lantongxue` ，电脑小白不会解压看这篇文章：[如何解压文件？](https://mp.weixin.qq.com/s/3mWePn5gakhbvieNEJWwag)
 
 ② 本页面分享的链接更新没那么及时，**最新的教程和下载链接**可以在 `微信公众号：蓝朋友啊` 发送对应关键词获取。
 
 ![](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204300106793.jpg)
 
-③交流答疑，防止失联：[加入蓝同学的交流群](https://mp.weixin.qq.com/s/oUpJYEBboztdv-T06JWo8w)
-
-注：交流群在调整，暂停开放。
+有问题建议加交流群。
 
 # 资源列表
 
