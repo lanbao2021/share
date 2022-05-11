@@ -9,15 +9,15 @@
 
 ![](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204300106793.jpg)
 
-③交流答疑，防止失联：[点我加入蓝同学的QQ频道](https://mp.weixin.qq.com/s/oUpJYEBboztdv-T06JWo8w)
+③交流答疑，防止失联：[加入蓝同学的交流群](https://mp.weixin.qq.com/s/oUpJYEBboztdv-T06JWo8w)
 
-注：蓝同学分享的资源都是免费的，交流群和频道设置门槛是因为这需要花费蓝同学不少精力去维护，设置成无门槛会招来很多妖魔鬼怪...如果你觉得蓝同学的分享不错，欢迎加入～
+注：交流群在调整，暂停开放。
 
 # 资源列表
 
 请在 `微信公众号：蓝朋友啊` 发送对应 `关键词`
 
-链接、教程失效请在私信或QQ频道反馈。
+链接、教程失效请在私信或交流群反馈。
 
 * **Matlab**资源获取关键词：`Matlab`
   + [Matlab 2016安装教程（Win）](https://mp.weixin.qq.com/s/JABBpWc3bR9Ax1N5hm6rWA)
