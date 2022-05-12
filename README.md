@@ -93,14 +93,18 @@
 资源获取关键词：`100`
 
 [Matlab 2016安装教程（Win）（推荐！！）](https://mp.weixin.qq.com/s/JABBpWc3bR9Ax1N5hm6rWA)
+
 [Matlab 2020安装教程（Win）](https://mp.weixin.qq.com/s/LfFauuuDTd9ryNhQhuylmQ)
+
 [Matlab 2020安装教程（Mac）](https://mp.weixin.qq.com/s/TDIpJwO9JoXCeD6XYZBEsQ)
+
 [点我查看正在努力更新的教程...](https://www.yuque.com/books/share/6cae9fac-4fa5-4fec-9d9b-10f17e05cf94)
 
 # Keil
 资源获取关键词：`101`
 
 [Keil 5图文安装教程](https://mp.weixin.qq.com/s/pfshL173N4ztDfrcU2dOPg)
+
 [点我查看正在努力更新的教程...](https://www.yuque.com/books/share/6cae9fac-4fa5-4fec-9d9b-10f17e05cf94)
 
 # Office
@@ -108,7 +112,9 @@
 
 
 [Office 2016/2019安装教程](https://www.bilibili.com/video/BV1G54y1X7VR)
+
 [Office 2021专业增强版（推荐）](https://mp.weixin.qq.com/s/oUpJYEBboztdv-T06JWo8w)
+
 [点我查看正在努力更新的教程...](https://www.yuque.com/books/share/6cae9fac-4fa5-4fec-9d9b-10f17e05cf94)
 
 # Project
@@ -121,6 +127,7 @@
 资源获取关键词：`104`
 
 [Visio 2019安装教程](https://www.bilibili.com/video/BV1sz411i7qn)
+
 [点我查看正在努力更新的教程...](https://www.yuque.com/books/share/6cae9fac-4fa5-4fec-9d9b-10f17e05cf94)
 
 # SAI
@@ -177,9 +184,13 @@
 
 
 [CAD2021安装教程](https://www.bilibili.com/video/BV11A411Y7En)
+
 [CAD2020安装教程](https://www.bilibili.com/video/BV1pD4y1D7UF)
+
 [CAD2019安装教程](https://www.bilibili.com/video/BV1p64y1c7Vx)
+
 [CAD2018安装教程](https://www.bilibili.com/video/BV1Nt4y1Q7Zs)
+
 [点我查看正在努力更新的教程...](https://www.yuque.com/books/share/6cae9fac-4fa5-4fec-9d9b-10f17e05cf94)
 
 # 3dsMax
@@ -190,6 +201,7 @@
 
 
 [3dsMax 2020安装教程](https://www.bilibili.com/video/BV1kK411W7Ua)
+
 [点我查看正在努力更新的教程...](https://www.yuque.com/books/share/6cae9fac-4fa5-4fec-9d9b-10f17e05cf94)
 
 # LINGO
@@ -203,6 +215,7 @@
 
 
 [VMware WorkStation Pro 16.2【避坑】](https://mp.weixin.qq.com/s/RYq02l9EZcT7vdTBIWFCHA)
+
 [超详细的Windows 11虚拟机安装教程！](https://mp.weixin.qq.com/s/18yYWiiIKQpCSONoHnnxGw)
 
 # Multisim
