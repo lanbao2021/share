@@ -243,8 +243,6 @@ Adobe全家桶获取关键词：`119`
 
 2022版在整理中，比较急的可以进交流群
 
-Adobe全家桶下载链接: https://pan.baidu.com/s/1UIWGbonvbxu1ljJxfV99pA?pwd=050p
-
 [点我查看正在努力更新的教程...](https://www.yuque.com/books/share/6cae9fac-4fa5-4fec-9d9b-10f17e05cf94)
 
 ## PhotoShop
