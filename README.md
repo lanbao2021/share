@@ -1,4 +1,4 @@
-# 蓝同学的分享
+# 蓝同学分享的资源导航
 
 # 必看说明
 
@@ -15,7 +15,7 @@
 
 链接、教程失效请在私信或交流群反馈。
 
-下方没有教程的请看：[《努力更新中的教程...》](https://www.yuque.com/books/share/6cae9fac-4fa5-4fec-9d9b-10f17e05cf94)
+交流群说明：[蓝同学的交流群（2022年5月更新）](https://mp.weixin.qq.com/s/Hddfb2ikXVNQ-3gNHMBsjg)
 
 - [Matlab](#matlab)
 - [Keil](#keil)
