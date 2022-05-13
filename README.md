@@ -2,7 +2,7 @@
 
 # 必看说明
 
-① 解压有密码的话是 `lantongxue` ，电脑小白不会解压看这篇文章：[《如何解压文件？》](https://mp.weixin.qq.com/s/3mWePn5gakhbvieNEJWwag)
+① 解压有密码的话是 `lantongxue` ，电脑小白不会解压看这篇文章：[《如何解压文件？》](https://mp.weixin.qq.com/s/WwFchRA_4f9QwDLr5f-dxA)
 
 ② 本页面分享的链接更新没那么及时，**最新的教程和下载链接**请在 `微信公众号：蓝朋友啊` 发送对应关键词获取，方便蓝同学维护更新！。
 
@@ -14,8 +14,6 @@
 请在 `微信公众号：蓝朋友啊` 发送对应 `关键词`
 
 链接、教程失效请在私信或交流群反馈。
-
-有问题建议加交流群：[《交流答疑，防止失联》](https://mp.weixin.qq.com/s/3mWePn5gakhbvieNEJWwag)
 
 下方没有教程的请看：[《努力更新中的教程...》](https://www.yuque.com/books/share/6cae9fac-4fa5-4fec-9d9b-10f17e05cf94)
 
