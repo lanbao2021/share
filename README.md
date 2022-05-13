@@ -113,7 +113,7 @@
 
 [Office 2016/2019安装教程](https://www.bilibili.com/video/BV1G54y1X7VR)
 
-[Office 2021专业增强版（推荐）](https://mp.weixin.qq.com/s/oUpJYEBboztdv-T06JWo8w)
+[Office 2021专业增强版（推荐）](https://mp.weixin.qq.com/s/mhvxFBoJdMi7g7RTukkkbg)
 
 [点我查看正在努力更新的教程...](https://www.yuque.com/books/share/6cae9fac-4fa5-4fec-9d9b-10f17e05cf94)
 
