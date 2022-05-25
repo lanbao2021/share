@@ -15,7 +15,7 @@
 
 链接、教程失效请在私信或交流群反馈。
 
-👉[蓝同学的交流群说明](https://mp.weixin.qq.com/s/4Xcad_G83ENQsbgQFrfUMw)
+👉[蓝同学的交流群说明](https://mp.weixin.qq.com/s/2BOqs3sfeNFxnP4Pu8oWsw)
 
 - [Matlab](#matlab)
 - [Keil](#keil)
