@@ -17,6 +17,7 @@
 
 👉[蓝同学的交流群说明](https://mp.weixin.qq.com/s/2BOqs3sfeNFxnP4Pu8oWsw)
 
+- [聚合全网最新优质影视资源的神器！](#聚合全网最新优质影视资源的神器！)
 - [Matlab](#matlab)
 - [Keil](#keil)
 - [Office](#office)
@@ -87,6 +88,9 @@
 - [在哪里可以找到我？](#在哪里可以找到我？)
 
 
+
+# 聚合全网最新优质影视资源的神器！
+文章链接：[《聚合全网最新优质影视资源的神器！》](https://mp.weixin.qq.com/s/BeUl9y_4CZHhGLmBc3KM3g)
 # Matlab
 资源获取关键词：`100`
 
