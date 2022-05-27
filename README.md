@@ -15,7 +15,7 @@
 
 链接、教程失效请在私信或交流群反馈。
 
-👉[蓝同学的交流群说明](https://mp.weixin.qq.com/s/2BOqs3sfeNFxnP4Pu8oWsw)
+👉[蓝同学的交流群说明](https://mp.weixin.qq.com/s/dZIMse5__bIaZ9tIgD2vZA)
 
 - [聚合全网最新优质影视资源的神器！](#聚合全网最新优质影视资源的神器！)
 - [Matlab](#matlab)
