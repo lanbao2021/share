@@ -4,11 +4,11 @@
 
 # 必看说明
 
-① 解压有密码的话是 `lantongxue` ，电脑小白不会解压看这篇文章：[《如何解压文件？》](https://mp.weixin.qq.com/s/WwFchRA_4f9QwDLr5f-dxA)
+① 解压有密码的话是 `lantongxue` ，电脑小白不会解压看这篇文章：[《如何解压文件？》](https://mp.weixin.qq.com/s/xL5YU6PBTJSTcjnuxm1BUg)
 
-② 本页面分享的链接更新没那么及时，**最新的教程和下载链接**可以在 `微信公众号：蓝朋友啊` 发送对应关键词获取。
+② 本页面分享的链接更新没那么及时，**最新的教程和下载链接**可以在 `微信公众号：蓝同学啊` 发送对应关键词获取。
 
-![](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204300106793.jpg)
+![](http://notes-1302258083.cos.ap-guangzhou.myqcloud.com/2022/12/18/lan-tong-xue-awei-xin-sou-yi-souer-wei-ma.jpg)
 
 # 资源列表
 
@@ -469,6 +469,4 @@ Adobe全家桶获取关键词：`119`
 
 知乎：[我是蓝同学啊](https://www.zhihu.com/people/wo-shi-lan-tong-xue-a)
 
-公众号1：[我是蓝朋友啊](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204301213438.jpg)
-
-公众号2：[蓝同学啊](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204301522569.jpeg)
+公众号：[蓝同学啊](https://notes-1302258083.cos.ap-guangzhou.myqcloud.com/202204301522569.jpeg)
